@@ -2,23 +2,24 @@
   "name": "javascript-projects",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://wojtek-a.github.io/JavaScript-Projects/",
+  "homepage": "https://wojtek-a.github.io/javascript-projects/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JavaScript-Projects/"
+    "build": "parcel build src/*.html --public-url /javascript-projects/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wojtek-A/JavaScript-Projects/"
+    "url": "git+https://github.com/Wojtek-A/javascript-projects/"
   },
   "keywords": [],
   "author": "Wojtek",
   "license": "",
   "bugs": {
-    "url": "https://github.com/Wojtek-A/JavaScript-Projects/issues"
+    "url": "https://github.com/Wojtek-A/javascript-projects/issues"
   },
   "dependencies": {
     "axios": "^1.2.0",
+    "lodash": "^4.17.21",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.5",
     "simplelightbox": "^2.11.0"
