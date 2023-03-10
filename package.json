@@ -1,6 +1,6 @@
 {
   "name": "javascript-projects",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "homepage": "https://wojtek-a.github.io/javascript-projects",
   "scripts": {
@@ -9,17 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wojtek-A/javascript-projects"
+    "url": "https://github.com/Wojtek-A/javascript-projects.git"
   },
   "keywords": [],
   "author": "Wojtek",
-  "license": "",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/Wojtek-A/javascript-projects/issues"
   },
   "dependencies": {
+    "@vimeo/player": "^2.18.0",
     "axios": "^1.2.0",
+    "flatpickr": "^4.6.13",
     "lodash": "^4.17.21",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.5",
     "simplelightbox": "^2.11.0"
